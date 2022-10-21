@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaibaly
-- 👀 I’m interested in Mobile Developement
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning Laravel,VueJS,InertiaJS,ZiggyVue,Laravel Sanctum
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me @ xubair.jatoi@gmail.com
 
