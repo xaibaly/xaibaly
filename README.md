@@ -1,10 +1,60 @@
-- 👋 Hi, I’m @xaibaly
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Laravel,VueJS,InertiaJS,ZiggyVue,Laravel Sanctum
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me @ xubair.jatoi@gmail.com
+# Hi, I'm Zubair Ahmed Jatoi
 
-<!---
-xaibaly/xaibaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Software Engineer with 3+ years of experience building ERP,
+logistics, financial, mobile, and API-driven applications.
+
+## What I work with
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+- Queue workers
+- Redis
+
+### Frontend and Mobile
+- React.js
+- Next.js
+- Flutter
+- Tailwind CSS
+- Bootstrap
+
+### Databases and Infrastructure
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL Server
+- Docker
+- Jenkins
+- AWS S3
+- VPS deployment
+
+## What I build
+
+- ERP and finance systems
+- Logistics and shipment platforms
+- REST APIs and integrations
+- Flutter applications
+- Real-time tracking systems
+- Stripe payment integrations
+- AI-powered business assistants
+
+## Featured Projects
+
+- [Logistics Management API](PROJECT_LINK)
+- [Laravel ERP Starter](PROJECT_LINK)
+- [AI Support Assistant](PROJECT_LINK)
+- [Flutter Delivery Application](PROJECT_LINK)
+
+## Current Goal
+
+Open to remote Full Stack, Backend, Laravel, Node.js, and Flutter opportunities.
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/zubairjatoi
+- Email: xubair.jatoi@gmail.com
+- Portfolio: https://xaibaly.github.io
